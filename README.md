@@ -6,6 +6,7 @@
 2. carmack: cli utility to manage plan files ([GitHub](https://github.com/pranshuj73/carmack))
 3. cv-scroll: cv based gesture tracker to let you scroll without actually scrolling ([GitHub](https://github.com/pranshuj73/cv-scroll))
 4. oni: cli based anime client ([GitHub](https://github.com/pranshuj73/oni))
+5. areyoulocked.in: dev productivity tracker with a leaderboard, tracks activity via neovim / vscode extensions ([Site](https://areyoulocked.in/))
 
 ## 2024
 
