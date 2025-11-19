@@ -1,12 +1,15 @@
 # what im building
 
+list of things i built not all of which i'd list on my portfolio
+
 ## 2025
 
-1. w2x: cli utility to post tweets from your terminal ([GitHub](https://github.com/pranshuj73/w2x))
-2. carmack: cli utility to manage plan files ([GitHub](https://github.com/pranshuj73/carmack))
-3. cv-scroll: cv based gesture tracker to let you scroll without actually scrolling ([GitHub](https://github.com/pranshuj73/cv-scroll))
-4. oni: cli based anime client ([GitHub](https://github.com/pranshuj73/oni))
-5. areyoulocked.in: dev productivity tracker with a leaderboard, tracks activity via neovim / vscode extensions ([Site](https://areyoulocked.in/))
+1. areyoulocked.in (contributed to a rewrite of): dev productivity tracker with a leaderboard, tracks activity via neovim / vscode extensions ([Site](https://areyoulocked.in/))
+2. w2x: cli utility to post tweets from your terminal ([GitHub](https://github.com/pranshuj73/w2x))
+3. carmack: cli utility to manage plan files ([GitHub](https://github.com/pranshuj73/carmack))
+4. cv-scroll: cv based gesture tracker to let you scroll without actually scrolling ([GitHub](https://github.com/pranshuj73/cv-scroll))
+5. oni: cli based anime client ([GitHub](https://github.com/pranshuj73/oni))
+6. ronin: anime streaming application created with expo (react native) ([GitHub](https://github.com/pranshuj73/ronin))
 
 ## 2024
 
